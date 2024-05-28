@@ -7,3 +7,4 @@ mplsoccer
 beautifulsoup4
 lxml
 matplotlib
+matplotlib.pyplot
