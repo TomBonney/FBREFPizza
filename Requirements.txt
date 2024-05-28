@@ -1,3 +1,4 @@
+matplotlib
 streamlit
 pandas
 requests
@@ -6,5 +7,3 @@ matplotlib
 mplsoccer
 beautifulsoup4
 lxml
-matplotlib
-matplotlib.pyplot
